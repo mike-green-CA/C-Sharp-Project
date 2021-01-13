@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBindingEx2", "DataBindingEx2\DataBindingEx2.csproj", "{A2C45070-E755-4441-8DA7-D53F35B04431}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuisnessLibrary", "BuisnessLibrary\BuisnessLibrary.csproj", "{EE22E75E-E8BF-498A-9ABC-6C6C0A221EAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2C45070-E755-4441-8DA7-D53F35B04431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C45070-E755-4441-8DA7-D53F35B04431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C45070-E755-4441-8DA7-D53F35B04431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C45070-E755-4441-8DA7-D53F35B04431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE22E75E-E8BF-498A-9ABC-6C6C0A221EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE22E75E-E8BF-498A-9ABC-6C6C0A221EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE22E75E-E8BF-498A-9ABC-6C6C0A221EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE22E75E-E8BF-498A-9ABC-6C6C0A221EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F006F0C4-A638-42A2-BCEE-2D07EA071847}
+	EndGlobalSection
+EndGlobal
